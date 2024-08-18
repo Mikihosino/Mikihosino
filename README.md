@@ -1,11 +1,4 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on developping a tech shop webpage
-- 🌱 I’m currently learning Redux and React.js
-- 🤔 I’m looking for help with a test of my webpage
-- ⚡ Fun fact: I am from Japan and love Anime
-
-Link to [hoshitechshop](https://hoshitechshop.online/)
 <!--
 **Mikihosino/Mikihosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
